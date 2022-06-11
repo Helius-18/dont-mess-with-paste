@@ -1,0 +1,24 @@
+head ,body 
+{
+    background-color: rgb(38, 38, 38) !important;
+    color: white !important;
+}
+.author-block
+{
+    background-color: rgb(38, 38, 38) !important;
+    border: 2px solid #e2e2e2 !important;
+}
+tr:nth-child(even)
+{
+    color: black;
+}
+/* .ace_content
+{
+    background-color: rgb(227, 227, 227) !important;
+    color: white !important;
+} */
+/* .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active
+{
+    background-color: rgb(38, 38, 38) !important;
+    color: white !important;
+} */
